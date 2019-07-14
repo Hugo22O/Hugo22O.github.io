@@ -9,7 +9,7 @@ An overview of an couple repostories I've published on [Github](https://github.c
 - [How-to-install-PRET-on-Termux](https://github.com/Hugo22O/How-to-install-PRET-on-Termux) (A guide helping you install PRET on Termux)
 
 
-### Contact me! 
+## Contact me! 
 You can e-mail me at [example@domain.tld](#). I'll try to respond in a timely manner.
 
 
