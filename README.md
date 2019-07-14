@@ -1,7 +1,7 @@
 # Welcome to my page! 
 Here you can learn more about me! And view all the (cool) projects I made. 
 ## My respostories
-An overview of an couple repostories I've published on [Github](https://github.com/Hugo22O).
+An overview of a couple repostories I've published on [Github](https://github.com/Hugo22O).
 
 - [Hugo22O.github.io](https://github.com/Hugo22O/Hugo22O.github.io) (My Github page. :D)
 - [My-fancy-maintenance-page](https://github.com/Hugo22O/My-fancy-maintenance-page) (A fancy, modern looking maintenance page)
