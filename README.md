@@ -11,13 +11,3 @@ An overview of an couple repostories I've published on [Github](https://github.c
 
 ## Contact me! 
 You can e-mail me at [example@domain.tld](#). I'll try to respond in a timely manner.
-
-
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
