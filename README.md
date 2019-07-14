@@ -1,6 +1,7 @@
 Syntax highlighted code block
 
-# Header 1
+# Welcome to my page! 
+Here you can learn more about me! And view all the (cool) projects I made. 
 ## Header 2
 ### Header 3
 
